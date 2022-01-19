@@ -17,7 +17,16 @@ Last Updated Jan 2022
 Refer to the IU Knowledge Base (IUKB) for many of your computing needs, including [Cabonate](https://kb.iu.edu/d/aopq).
 
 There are a couple ways to [access Carbonate](https://kb.iu.edu/d/aolp#access). You can shell into a login node by opening the terminal and using `ssh` to log in: `ssh your_username@carbonate.uits.iu.edu`. Enter your password and Duo authenicate as needed. You'll then be able to navigate the high performance file system, submit jobs, etc. from the terminal.
-- Note that doing any heavy lifting on the login nodes is frowned upon - most programs will be killed after 20m of CPU time.  Some simple, low-overhead commands like `wget`, `tar`, and `gunzip` can run longer. [Submit a job](https://kb.iu.edu/d/awrz) or start an interactive session for anything more.
+
+- If you're on macOS, you may need to install the `Xcode` toolkit from the App Store to access the terminal and command line tools
+- On Windows, you have several terminal options:
+    - The [PuTTY](https://www.puttygen.com/download-putty) terminal emulator
+    - [Cygwin](http://cygwin.com/index.html) GNU/Linux-like environment
+    - The [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install)
+    - or just spin up your favorite Linux VM
+
+Note that doing any heavy lifting on the login nodes is frowned upon - most programs will be killed after 20m of CPU time.  Some simple, low-overhead commands and programs like `wget`, `tar`, and `gunzip` can run longer. [Submit a job](https://kb.iu.edu/d/awrz) or start an interactive session for anything more.
+
 
 ### Research Desktop on Carbonate
 
