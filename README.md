@@ -1,10 +1,8 @@
-# Tennessen Laboratory Handbook
+# Welcome to the Tennessen Lab Handbook !
 
-This page last updated Jan 2022
+Page last updated Jan 2022
 
-## Welcome to the Tennessen Lab Handbook ! 
-
-Here you'll find a collection of accumulated knowledge and best practices to help you along your scientific journey.  Browse amongst the many topics listed and be sure to read the preface below.
+**Here you'll find a collection of accumulated knowledge and best practices to help you along your scientific journey.  Browse amongst the many topics listed and be sure to read the preface below.**
 
 ## Chapter 0 - Tennessen Lab Committments
 
